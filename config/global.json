@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "_default": {
+            "link": "chain-callback"
+        }, 
+        "chain-callback": {
+            "applicationId": "X2Ly93jwtYOYnSNHVk4a4eZpUE8nf5pzCtRI56zy", 
+            "masterKey": "XxuU68ebpvQoCQmWAZSP97z7cEo5y0a5sVS0rfBV"
+        }
+    }
+}
